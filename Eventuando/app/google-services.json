@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "691433281646",
+    "firebase_url": "https://eventuandobd.firebaseio.com",
+    "project_id": "eventuandobd",
+    "storage_bucket": "eventuandobd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691433281646:android:49853fbd3aa24084",
+        "android_client_info": {
+          "package_name": "eventuando.usc.com.eventuandoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691433281646-p4vh9fji0esggfg39s8c06d7kj300vrd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eventuando.usc.com.eventuandoapp",
+            "certificate_hash": "ec6f9623dcc55704b89ce1f61e652d61cc356096"
+          }
+        },
+        {
+          "client_id": "691433281646-ql2hvp1mpch2sl7qugcg90p30dafaegt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI1B_VdRB0q7oOWYYdx6s0Aaq_aldmiU8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691433281646-ql2hvp1mpch2sl7qugcg90p30dafaegt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
